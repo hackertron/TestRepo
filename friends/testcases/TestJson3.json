@@ -1,0 +1,9 @@
+[
+		{"latitude": "14.180238", "user_id": 17,  "name": "Patricia", "longitude": "-5.920898"},
+        {"latitude": "16.257447", "user_id": 11,   "name": "Ian", "longitude": "80.440844"},
+        {"latitude": "16.473541", "user_id": 23,  "name": "Debra", "longitude": "80.655077"},
+        {"latitude": "16.246899", "user_id": 5,    "name": "Ace", "longitude": "80.462816"},
+        {"latitude": "17.225335", "user_id": 18,  "name": "Ivana", "longitude": "80.155199"},
+        {"latitude": "17.359603", "user_id": 6,  "name": "Ruphy",  "longitude": "78.485277"},
+        {"latitude": "27.359603", "user_id": 46, "name": "Remedy", "longitude": "88.485277"}
+]
